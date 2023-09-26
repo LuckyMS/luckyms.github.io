@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Conference, Workshops
+------
+1. Payal Mohapatra <sup>*</sup>, Akash Pandey <sup>*</sup>, **Yueyuan Sui** <sup>*</sup>, and Qi Zhu. [**Effect of attention and self-supervised speech embeddings on non-semantic speech tasks**](https://arxiv.org/abs/2308.14359). ACM Multimedia 2023 Multimedia Grand Challenges Track (**accepted**).
