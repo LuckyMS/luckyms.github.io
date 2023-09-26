@@ -1,10 +1,9 @@
 ---
 layout: archive
 title: "Research"
-permalink: /Research/
+permalink: /research/
 author_profile: true
 ---
-
 
 ## Prediction of Mechanical Properties of Spider Silk using deep learning
 ### Apr. 2023 - Oct. 2023
