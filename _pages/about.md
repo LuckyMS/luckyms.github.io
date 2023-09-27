@@ -16,7 +16,7 @@ My other research interest is in the field of robotics, specifically combining r
 Before Northwestern, I did my undergrad in Electrical Engineering at [Chung Yuan Christian University](https://www.cycu.edu.tw/eng/).
 
 You can reach me at yueyuansui2024 at u dot northwestern dot edu.
-[Link to my CV](../assets/YueyuanCV.pdf)
+[Link to my CV](../assets/YueyuanCV2.pdf)
 
 News
 ======
